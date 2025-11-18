@@ -1,16 +1,17 @@
-## Hi there 👋
+<div align="center">
+   <h1>Hi there, I'm <a href="https://github.com/Manoj-152">Manoj Srinivasan</a></h1>
+   <p><a href="https://www.linkedin.com/in/manoj-s-nyu/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://manoj-152.github.io/" target="_blank"><img alt="Personal Website" src="https://img.shields.io/badge/Personal Website-%231DA1F2.svg?&style=for-the-badge&logo=Personal Website&logoColor=white" /></a>
+</p>
+  </div>
+  
+### Something about me:
 
-<!--
-**Manoj-152/Manoj-152** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a recent Master’s graduate in Computer Engineering from New York University and an alumnus of IIT Madras. I am currently an ML Research Assistant at the NYU Video Lab, advised by Prof. Yao Wang. I work at the intersection of computer vision, generative AI, and 3D rendering, and I enjoy solving complex problems that connect these areas. My passion is not only research but also turning cutting-edge ideas into practical and impactful solutions.
 
-Here are some ideas to get you started:
+### Languages and Tools:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p> <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" /> <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img alt="SQL" src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white" /> <img alt="Pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /> <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <img alt="pandas" src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img alt="CUDA" src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" /> <img alt="AWS S3" src="https://img.shields.io/badge/AWS S3-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /> <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" /> <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" /> <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" /> </p>
+
+### GitHub Stats:
+
+<img src="https://github-readme-stats.vercel.app/api?username=Manoj-152&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&cache_seconds=86400&theme=tokyonight" alt="Manoj S' GitHub Stats">

@@ -4,7 +4,7 @@
 </p>
   </div>
   
-### Something about me:
+### About me:
 
 I am a recent Master’s graduate in Computer Engineering from New York University and an alumnus of IIT Madras. I am currently an ML Research Assistant at the NYU Video Lab, advised by Prof. Yao Wang. I work at the intersection of computer vision, generative AI, and 3D rendering, and I enjoy solving complex problems that connect these areas. My passion is not only research but also turning cutting-edge ideas into practical and impactful solutions.
 

@@ -1,6 +1,6 @@
 <div align="center">
    <h1>Hi there, I'm <a href="https://github.com/Manoj-152">Manoj Srinivasan</a></h1>
-   <p><a href="https://www.linkedin.com/in/manoj-s-nyu/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://manoj-152.github.io/" target="_blank"><img alt="Personal Website" src="https://img.shields.io/badge/Personal Website-%231DA1F2.svg?&style=for-the-badge&logo=Personal Website&logoColor=white" /></a>
+   <p><a href="https://www.linkedin.com/in/manoj-s-nyu/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://manoj-152.github.io/" target="_blank"><img alt="Personal Website" src="https://img.shields.io/badge/Personal Website-%231DA1F2.svg?&style=for-the-badge&logo=PersonalWebsite&logoColor=white" /></a>
 </p>
   </div>
   

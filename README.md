@@ -14,4 +14,4 @@ I am a recent Master’s graduate in Computer Engineering from New York Universi
 
 ### GitHub Stats:
 
-<img src="https://github-readme-stats.vercel.app/api?username=Manoj-152&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&cache_seconds=86400&theme=tokyonight" alt="Manoj S' GitHub Stats">
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Manoj-152&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&cache_seconds=86400&theme=tokyonight" alt="Manoj S' GitHub Stats">
